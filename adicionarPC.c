@@ -2,7 +2,11 @@
 
 $cd ~/.ssh/      #cria a chave publica
 $cat id_rsa.pub  #dar enter e copiar o output para colar no git hub
+
 		 #No github em settings/ ssh and gpg keys,  colar a chave publica
+
+		 #No github em settings/ ssh and gpg keys colar a chave publica
+
 		 #desta forma e possivel autorizar o git a fazer commit no github
 
 Criar um novo repositorio no social github
