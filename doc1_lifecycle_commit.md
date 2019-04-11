@@ -12,4 +12,8 @@ Alguns Comandos:
 
 	$git status
 	$git add file
-	
+	$git commit -m "novo file"
+	$git push      #para fazer upload no github
+	$git status    #para ver o estado no git
+	$git log
+	$git log --graph
