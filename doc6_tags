@@ -1,0 +1,17 @@
+quando trabalhamos com bibliotecas grandes
+
+tags
+
+colocando uma versao e uma mensagem $git tag -a versao -m mensagem    :
+
+$git tag -a versao 1.0.0 -m "readme terminado"
+
+para upload da tag basta
+
+$git push origin master --tags
+
+
+depois no git hub o utilizador que entrar no repositorio pode fazer download so da versao que pretende de todo o conteudo existente no repositorio do mesmo programa
+tambem vai aparecer a informacao de quem criou essa tag 
+
+
