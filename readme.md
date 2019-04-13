@@ -5,7 +5,7 @@ git init
 
 git add README.md
 git commit -m "first commit"
-git remote add origin git@github.com:l32640/Pseudocodigo.git
+git remote add origin git@github.com:user/repositorio.git
 git push -u origin master
 
 Documento de texto comandos basicos vim:
