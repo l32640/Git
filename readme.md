@@ -1,8 +1,16 @@
 # Github readme
 
-Documento de texto comandos basicos vim:
 
-$ vi File.md
+git init
+
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:l32640/Pseudocodigo.git
+git push -u origin master
+
+Documento de texto comandos basicos vim:
+vim README.md
+$vim File.md
 i -> insert modificacoes ao texto
 esc -> sair das modificacoes feitas ao texto
 : -> iniciar comandos
